@@ -1,0 +1,17 @@
+body{
+    background-color: blanchedalmond;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
